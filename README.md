@@ -67,7 +67,7 @@ print("DECRYPTED TEXT:", decrypted)
 ## OUTPUT :-
 
 
-<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/fa5e0f01-fa74-43ee-ab20-76567822e3d9" />
+<img width="1702" height="1082" alt="image" src="https://github.com/user-attachments/assets/f41a1480-1b50-405a-92fe-bd4c831d0595" />
 
 
 
